@@ -1,3 +1,4 @@
 Raid farm: -8086 160 785
 Creeper farm: -8315 164 556
 Shulker farm: -987 70 -549
+Gold farm (overworld): -10532 74 1888
