@@ -3,3 +3,4 @@ Creeper farm: -8315 164 556
 Shulker farm: -987 70 -549
 Gold farm (overworld): -10532 74 1888
 Trident farm: -9750 191 2275
+Tekik: -7680 64 830
